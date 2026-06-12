@@ -1,0 +1,14 @@
+
+ Project Name 🔧
+
+## Service Overview
+This microservice handles [specific function].
+
+## Endpoints
+- `GET /health` → Check service status
+- `POST /data` → Submit data
+
+## Run Locally
+```bash
+docker build -t service .
+docker run -p 3000:3000 service
