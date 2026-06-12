@@ -1,0 +1,19 @@
+---
+
+### 2. Clean Developer README
+```markdown
+# Project Name 🚀
+
+## Overview
+This project is designed to [describe purpose].
+
+## Features
+- Fast
+- Scalable
+- Easy to use
+
+## Setup
+```bash
+git clone <repo>
+cd project
+npm install
